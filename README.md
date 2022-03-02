@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1 align="center">Hi 👋, I'm Ahmed Muhammed</h1>
 
 <!--
 **mr-01000001/mr-01000001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ahmed Muhammed</h1>
+
 <h3 align="center">Junior Software Engineer</h3>
 
 - 📫 How to reach me **ahmed.othman2511@gmail.com**
